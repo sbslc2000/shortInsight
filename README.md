@@ -15,7 +15,7 @@ https://www.youtube.com/watch?v=1goockl3wPs
 https://www.youtube.com/watch?v=QOLnhZ-HV78
 
 
-## 동기부여 https://www.youtube.com/playlist?list=PLClkJHPS9fhp9n08hpouQisVEbArEH-FG
+## 동기부여 <a href="https://www.youtube.com/playlist?list=PLClkJHPS9fhp9n08hpouQisVEbArEH-FG" alt="동기부여 재생목록 바로가기">Link</a>
 
 * 지방대 개발 비전공자가 배달의민족 리드 개발자가 되기까지 (배달의민족 이동욱님) 10분
 
