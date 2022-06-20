@@ -10,11 +10,12 @@
 <summary>주제별로 보기</summary>
 
 <div markdown="1">
-[오픈소스] (https://www.youtube.com/playlist?list=PLClkJHPS9fhpA1VOqjq7kx7G3MkaquuFU)
   
-[스타트업/창업] (https://www.youtube.com/playlist?list=PLClkJHPS9fhoYnr2sk46hv7QMY5a9hjQp)
+[오픈소스] 
   
-[동기부여] (https://www.youtube.com/playlist?list=PLClkJHPS9fhp9n08hpouQisVEbArEH-FG)
+[스타트업/창업] 
+  
+[동기부여] 
   
   
 
