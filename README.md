@@ -4,8 +4,8 @@
 [유튜브 재생목록 바로가기]
 
 
-## 오픈소스  
-[오픈소스 재생목록 Link]
+## 오픈소스  [오픈소스 재생목록 Link]
+
 * 파이썬 오픈소스 커미터가 되는 방법 (라인개발실톡) 6분
 
 https://www.youtube.com/watch?v=1goockl3wPs
@@ -26,4 +26,4 @@ https://www.youtube.com/watch?v=V9AGvwPmnZU
 
 
 [유튜브 재생목록 바로가기]: https://www.youtube.com/playlist?list=PLClkJHPS9fhp7BXWxGxsJ2zuyS_PKsm-F
-[오픈소스 재생목록 Link] : https://www.youtube.com/playlist?list=PLClkJHPS9fhpA1VOqjq7kx7G3MkaquuFU
+[오픈소스 재생목록 Link]: https://www.youtube.com/playlist?list=PLClkJHPS9fhpA1VOqjq7kx7G3MkaquuFU
