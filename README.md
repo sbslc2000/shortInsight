@@ -38,7 +38,7 @@ https://www.youtube.com/watch?v=QOLnhZ-HV78
 
 https://www.youtube.com/watch?v=V9AGvwPmnZU
 
-* 대학생 스타트업으로 시작해 피봇 후 120억 투자를 받기까지 (클래스101 고지연님) 9분 #스타트업/창업 #
+* 대학생 스타트업으로 시작해 피봇 후 120억 투자를 받기까지 (클래스101 고지연님) 9분 #스타트업/창업 #동기부여
 
 https://www.youtube.com/playlist?list=PLClkJHPS9fhoYnr2sk46hv7QMY5a9hjQp
 
