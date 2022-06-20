@@ -6,8 +6,9 @@
 
 ## 유튜브~ 
 
-
+<details>
 <summary>주제별로 보기</summary>
+
 <div markdown="1">
 [오픈소스]
 [스타트업/창업]
