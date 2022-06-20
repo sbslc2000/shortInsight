@@ -2,7 +2,7 @@
 프로그래밍 인사이트를 얻기 위한 짧은 영상들
 [go to shortInsight youtube playlist]
 
-[go to shortInsight youtube playlist]: (https://www.youtube.com/playlist?list=PLClkJHPS9fhp7BXWxGxsJ2zuyS_PKsm-F).
+[go to shortInsight youtube playlist]: https://www.youtube.com/playlist?list=PLClkJHPS9fhp7BXWxGxsJ2zuyS_PKsm-F
 
 ## 오픈소스  https://www.youtube.com/playlist?list=PLClkJHPS9fhpA1VOqjq7kx7G3MkaquuFU
 
