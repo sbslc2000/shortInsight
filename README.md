@@ -42,6 +42,10 @@ https://www.youtube.com/watch?v=V9AGvwPmnZU
 
 https://www.youtube.com/playlist?list=PLClkJHPS9fhoYnr2sk46hv7QMY5a9hjQp
 
+* '웹 크롤러' 좀 그만 만들어라 (블로그 mowinckel) 블로그 #크롤링
+
+https://velog.io/@mowinckel/%EC%9B%B9-%ED%81%AC%EB%A1%A4%EB%A7%81-I
+
 
 [유튜브 재생목록 바로가기]: https://www.youtube.com/playlist?list=PLClkJHPS9fhp7BXWxGxsJ2zuyS_PKsm-F
 
