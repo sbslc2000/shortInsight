@@ -17,6 +17,8 @@
   
 [동기부여] 
   
+[해커톤]
+  
   
 
 </div>
@@ -46,9 +48,14 @@ https://www.youtube.com/playlist?list=PLClkJHPS9fhoYnr2sk46hv7QMY5a9hjQp
 
 https://velog.io/@mowinckel/%EC%9B%B9-%ED%81%AC%EB%A1%A4%EB%A7%81-I
 
+* 해커톤이란 무엇인가요 (데브원영님) 5분 #해커톤
+
+https://www.youtube.com/watch?v=2yxnc4tNIvc&list=PLClkJHPS9fhp7BXWxGxsJ2zuyS_PKsm-F&index=5
+
 
 [유튜브 재생목록 바로가기]: https://www.youtube.com/playlist?list=PLClkJHPS9fhp7BXWxGxsJ2zuyS_PKsm-F
 
 [오픈소스]: https://www.youtube.com/playlist?list=PLClkJHPS9fhpA1VOqjq7kx7G3MkaquuFU
 [스타트업/창업]: https://www.youtube.com/playlist?list=PLClkJHPS9fhoYnr2sk46hv7QMY5a9hjQp 
 [동기부여]: https://www.youtube.com/playlist?list=PLClkJHPS9fhp9n08hpouQisVEbArEH-FG
+[해커톤]: https://www.youtube.com/playlist?list=PLClkJHPS9fhreQFK4V0sU4dG6jnFXFbrU
