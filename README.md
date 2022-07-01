@@ -52,6 +52,10 @@ https://velog.io/@mowinckel/%EC%9B%B9-%ED%81%AC%EB%A1%A4%EB%A7%81-I
 
 https://www.youtube.com/watch?v=2yxnc4tNIvc&list=PLClkJHPS9fhp7BXWxGxsJ2zuyS_PKsm-F&index=5
 
+* 2022년 한국에서 가장 빨리 크고 있는 이커머스 회사 (레브잇 강재윤님) 16분 #스타트업/창업 #동기부여
+
+https://www.youtube.com/watch?v=L2sNAQYLNbA
+
 
 [유튜브 재생목록 바로가기]: https://www.youtube.com/playlist?list=PLClkJHPS9fhp7BXWxGxsJ2zuyS_PKsm-F
 
